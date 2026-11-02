@@ -1,0 +1,6 @@
+{
+  "name": "Marriage 21",
+  "description": "Authentic 21-Card Marriage card game with Tunnellas, Pure Sequences, Tiplu Jokers, and smart AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
